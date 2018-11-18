@@ -4,25 +4,25 @@
     "members": [{
             "name": "海浪绽放",
             "author": "栖霞仙客",
-            "time": "夏季",
+            "time": "Summer",
             "explanation": [
-                "我喜欢大海，更喜欢海浪撞击礁石瞬间拼发出来的精彩"
+                "I like the sea, and I love the wonderful moments when the waves hit the rocks."
             ]
         },
         {
             "name": "河坊街夜市",
             "author": "江南人家",
-            "time": "秋季",
+            "time": "Autumn",
             "explanation": [
-                "摄于杭州"
+                "The simplicity of the people fascinated me."
             ]
         },
         {
             "name": "人间仙境",
             "author": "时间流逝",
-            "time": "春季",
+            "time": "Spring",
             "explanation": [
-                "摄于味庄"
+                "The beauty of the world is numerous."
             ]
         }
     ]
